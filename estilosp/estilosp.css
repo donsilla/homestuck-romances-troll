@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color:black;
+    display: flex;
+
+    position: fixed;
+    justify-content:space-between;
+    height: 100%;
+
+
+}
+img.logo{
+    width: 50px;
+    height: 67px;
+    margin: 10px;
+}
+img.lmates{
+width:70px;
+height:67px ;
+}
+
+body{
+    background-color: black;
+}
+
+h1.tp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color:#4eff4e;
+    text-align: center   
+}
+
+p{
+    text-indent: 67px;
+    color: purple;
+}
